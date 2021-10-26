@@ -1,0 +1,19 @@
+{
+    "eport": 8080,
+    "development": {
+        "host"  : "127.0.0.1",
+        "port"  : 2775,
+        "sid"   : "ryan",
+        "pass"  : "052386",
+        "cid"   : "transceiver",
+        "sto"   : "1m"
+    },
+    "production": {
+        "host"  : "smscsim.melroselabs.com",
+        "port"  : 2775,
+        "sid"   : "052868",
+        "pass"  : "391a53",
+        "cid"   : "transmitter",
+        "sto"   : "1m"
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "smpp-client",
+  "version": "1.0.0",
+  "description": "SMPP client",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Engr RyanVM",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "node-cron": "^3.0.0",
+    "sqlite3": "^5.0.2"
+  }
+}
